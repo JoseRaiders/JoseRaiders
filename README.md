@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nuk</h1>
-<h3 align="center">A Project Manager and passionate Software Engineer in the making</h3>
+<h3 align="center">A Project Manager and passionate Front-End/Software Engineer in the making</h3>
 
 - 🔭 I’m currently working on [About The U.S.](https://github.com/JoseRaiders/se_project_aroundtheus)
 
