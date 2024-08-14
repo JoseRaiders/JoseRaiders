@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoseRaiders](https://github.com/JoseRaiders)
 
-- 📝 I write articles on [https://dev.to/joseraiders](https://dev.to/joseraiders)
+- 📝 I want to get better at writing articles on [https://dev.to/joseraiders](https://dev.to/joseraiders)
 
-- ⚡ Fun fact **I'm an identical twin. I lived in Mexico for 6 months and still cannot speak Spanish**
+- ⚡ Fun fact **I lived in Mexico for 6 months and still cannot speak Spanish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
